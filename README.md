@@ -12,15 +12,18 @@ Hi 📫 i'm Yadhukrishna  🧏 .
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
 </p>
 
- ------
+ ------ 
+ <br>
+ 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** 
+ <br>
 
-
-[![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
 
 - 🎀 Computer Science Student
 - 🌻 Debugging myself from Bugs
-- ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/yadhukrishnx) , [Instagram](https://www.instagram.com/yadhukrishnx) & [Telegram](https://t.me/yadhukrishnx)
+- ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/yadhukrishnx) , [Instagram](https://www.instagram.com/yadhukrishnx) & [Telegram](https://t.me/yadhukrishnx) <br><br>
+   [![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
  <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  
