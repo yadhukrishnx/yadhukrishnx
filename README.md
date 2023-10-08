@@ -13,6 +13,9 @@ Hi 📫 i'm Yadhukrishna  🧏 .
 </p>
 
  ------ 
+
+  
+ 
  <br>
  
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** 
@@ -42,7 +45,15 @@ Hi 📫 i'm Yadhukrishna  🧏 .
    <p align="center">
   <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="400" height="270px">
 </p>
+<br>
+<br>
+ <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+ <br>
+ <br> <br> <br>
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkzdHNpOWM0cXV2ejF5bWxyZnFyNGtncDI2YzJ6NTh3ZXZ2MXQ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nqrgm6leke7zMTzcCv/giphy.gif" width="100%" style="opacity:0.2;" height="200px">
+     
+<br>
 <!--📏LINE-->
 
 <!--🖼️ILOVEOPENSOURCE-->
