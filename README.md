@@ -51,7 +51,7 @@ Hi 📫 i'm Yadhukrishna  🧏 .
  <br>
  <br> <br> <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkzdHNpOWM0cXV2ejF5bWxyZnFyNGtncDI2YzJ6NTh3ZXZ2MXQ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nqrgm6leke7zMTzcCv/giphy.gif" width="100%" style="opacity:0.2;" height="200px">
+
      
 <br>
 <!--📏LINE-->
