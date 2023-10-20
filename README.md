@@ -1,4 +1,13 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+
+
+
+
+# Hi  Interloper  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+ <br>
+
+ 
+
 
 ```diff 
 Hi 📫 i'm Yadhukrishna  🧏 .
@@ -18,7 +27,7 @@ Hi 📫 i'm Yadhukrishna  🧏 .
  
  <br>
  
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** 
+ **About me** 
  <br>
 
 
@@ -33,6 +42,8 @@ Hi 📫 i'm Yadhukrishna  🧏 .
  <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=yadhukrishnx&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhukrishnx&layout=compact&theme=aura&langs_count=9" />
+
+
 <img height="150" />
  <a href="https://github.com/yadhukrishnx/"><img src="https://img.shields.io/github/followers/yadhukrishnx?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/yadhukrishnx?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
@@ -43,13 +54,17 @@ Hi 📫 i'm Yadhukrishna  🧏 .
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
    <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="400" height="270px">
+
 </p>
 <br>
 <br>
  <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  <br>
  <br> <br> <br>
+
+ <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNrN29iNTV6bHZxenY1NXo1b3h5MHM3MXQxcW5rY3p5NmttOWF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3AD6Skz5goXinXUEj/giphy.gif" alt="Typing SVG">
+</p>
 
 
      
