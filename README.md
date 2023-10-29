@@ -63,7 +63,7 @@ Hi 📫 i'm Yadhukrishna  🧏 .
  <br> <br> <br>
 
  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNrN29iNTV6bHZxenY1NXo1b3h5MHM3MXQxcW5rY3p5NmttOWF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3AD6Skz5goXinXUEj/giphy.gif" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNrN29iNTV6bHZxenY1NXo1b3h5MHM3MXQxcW5rY3p5NmttOWF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3AD6Skz5goXinXUEj/giphy.gif"  height="400px" width="1200px" alt="Typing SVG">
 </p>
 
 
