@@ -3,16 +3,18 @@
 
 
 
-# Hi  Interloper  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
- <br>
+# Hi  Interloper...  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  Its Me Yadhukrishna 
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
  
 
 
 ```diff 
-Hi 📫 i'm Yadhukrishna  🧏 .
+Hi  📫 i'm Yadhukrishna , I'm a 🧏 .
+
 ! 🌻 Coding Enthusiast
 # 📖 Computer science student
+! 🛸 Technophile 
 
 ```
 ------
@@ -25,7 +27,7 @@ Hi 📫 i'm Yadhukrishna  🧏 .
 
   
  
- <br>
+ <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  
  **About me** 
  <br>
@@ -33,13 +35,14 @@ Hi 📫 i'm Yadhukrishna  🧏 .
 
 
 - 🎀 Computer Science Student
+- 🎲 Working a Little on Random Things 
 - 🌻 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/yadhukrishnx) , [Instagram](https://www.instagram.com/yadhukrishnx) & [Telegram](https://t.me/yadhukrishnx) <br><br>
    [![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
  <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  
- <h1 align="center"></h1>
+ <h1 align="center"> Statistics  </h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=yadhukrishnx&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhukrishnx&layout=compact&theme=aura&langs_count=9" />
 
@@ -50,14 +53,32 @@ Hi 📫 i'm Yadhukrishna  🧏 .
 <br><br>
 
  ------
+ <h2 align="center"> Projects </h2>
  
- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-   <p align="center">
+projects I've worked on:
 
+● [ Diceroller ](https://yadhukrishnx.github.io/Learningfest//JS/Task1/Task1.html) - Simple Page combining bootstrap and Js
+
+● [ Digi-Gramam Static page ](https://yadhukrishnx.github.io/DIGIGRAMAM/) - Sample page for CSP Near
+
+
+
+
+
+
+   
+<br>
+<br>
+ <h3 align="center"> TOOLS AND TECHNOLOGIES FAMILIER </h3>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,java,js,python,eclipse,bootstrap,jquery,figma,php,mysql" />
+  </a>
 </p>
-<br>
-<br>
+
+ <br>
+
+ 
  <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  <br>
  <br> <br> <br>
@@ -70,7 +91,6 @@ Hi 📫 i'm Yadhukrishna  🧏 .
      
 <br>
 <!--📏LINE-->
-<img src="https://66.media.tumblr.com/5be8fad233983ed129a5d1e77535137f/tumblr_oc3yn1OFO21uhw068o1_500.gifv" width="1000">
 
 <!--🖼️ILOVEOPENSOURCE-->
 <!---
