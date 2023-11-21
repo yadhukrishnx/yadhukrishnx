@@ -41,7 +41,7 @@ Hi  📫 i'm Yadhukrishna , I'm a 🧏 .
 
 - 🎀 Computer Science Student
 - 🎲 Working a Little on Random Things 
-- 🌻 Debugging myself from Bugs
+- 🌻 Debugging myself 
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/yadhukrishnx) , [Instagram](https://www.instagram.com/yadhukrishnx) & [Telegram](https://t.me/yadhukrishnx) <br><br>
    [![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
