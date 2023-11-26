@@ -22,7 +22,7 @@ Hi  📫 i'm Yadhukrishna , I'm a 🧏 .
 
 ------
 
-[Portfolio Web app](https://yadhukrishna-n-p.firebaseapp.com/)
+[My Portfolio](https://yadhukrishnx.github.io/GTech-mulearn/GoogleClone/index.html)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
