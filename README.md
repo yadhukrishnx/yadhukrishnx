@@ -3,32 +3,38 @@
 
 
 
-# Hi  Interloper...  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  Its Me Yadhukrishna 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+###### Hi  Interloper...  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 15px></picture>
 
+<br>
  
 
 
 ```diff 
-Hi  📫 i'm Yadhukrishna , I'm a 🧏 .
+Hy  📫 i'm Yadhukrishna .
 
-! 🌻 Coding Enthusiast
-# 📖 Computer science student
-! 🛸 Technophile
-! 
+
+! 📖 I am  a Computer science Learner
+
+
 
 
 ```
 
-------
 
-[My Portfolio](https://yadhukrishnx.github.io/GTech-mulearn/GoogleClone/index.html)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
-</p>
 
- ------ 
+
+<span align="center"> 
+<br> <br>
+
+ 
+   [😉](https://yadhukrishnx.github.io/GTech-mulearn/GoogleClone/index.html)
+<br> <br>
+   
+   
+</span>
+
+
 
   
  
@@ -43,9 +49,16 @@ Hi  📫 i'm Yadhukrishna , I'm a 🧏 .
 - 🎲 Working a Little on Random Things 
 - 🌻 Debugging myself 
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/yadhukrishnx) , [Instagram](https://www.instagram.com/yadhukrishnx) & [Telegram](https://t.me/yadhukrishnx) <br><br>
-   [![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
+   [![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)
 
  <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+ <br>
+ <h3 align="center"> TOOLS AND TECHNOLOGIES FAMILIER </h3>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,java,js,python,eclipse,bootstrap,jquery,figma,php,mysql" />
+  </a>
+</p>
  
  <h1 align="center"> Statistics  </h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=yadhukrishnx&count_private=true&show_icons=true&theme=tokyonight" />
@@ -57,8 +70,9 @@ Hi  📫 i'm Yadhukrishna , I'm a 🧏 .
     <a href="https://github.com/yadhukrishnx?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 <br><br>
 
- ------
- <h2 align="center"> Projects </h2>
+
+ 
+<h2 align="center"> Projects </h2>
  
 projects I've worked on:
 
@@ -74,13 +88,7 @@ projects I've worked on:
 
    
 <br>
-<br>
- <h3 align="center"> TOOLS AND TECHNOLOGIES FAMILIER </h3>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,java,js,python,eclipse,bootstrap,jquery,figma,php,mysql" />
-  </a>
-</p>
+
 
  <br>
 
