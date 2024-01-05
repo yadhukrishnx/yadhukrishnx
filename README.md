@@ -14,6 +14,7 @@ Hy  📫 i'm Yadhukrishna .
 
 
 ! 📖 I am  a Computer science Learner
+! 
 
 
 
@@ -28,9 +29,7 @@ Hy  📫 i'm Yadhukrishna .
 <br> <br>
 
  
-   [😉](https://yadhukrishnx.github.io/GTech-mulearn/GoogleClone/index.html)
-<br> <br>
-   
+ 
    
 </span>
 
