@@ -9,17 +9,11 @@
  
 
 
-```diff 
-Hy  📫 i'm Yadhukrishna .
+ 
+Hy  📫 i'm Yadhukrishna 
 
 
-! 📖 I am  a Computer science Learner
-! 
-
-
-
-
-```
+! 📖 I am  a Computer science Student
 
 
 
@@ -33,11 +27,6 @@ Hy  📫 i'm Yadhukrishna .
    
 </span>
 
-
-
-  
- 
- <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  
  **About me** 
  <br>
