@@ -34,7 +34,9 @@
 
 <br>
 
-[![Profile views](https://komarev.com/ghpvc/?username=yadhukrishnx&label=Profile%20views)](https://github.com/yadhukrishnx)
+
+
+![Visitor Count](https://profile-counter.glitch.me/{yadhukrishnx}/count.svg)
 
 </div>
 
