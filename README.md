@@ -56,16 +56,23 @@
  <h1 align="center"> Statistics  </h1> 
 <center>
 <br> 
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=yadhukrishnx&theme=highcontrast&hide_border=true&border_radius=60&date_format=%5BY%20%5DM%20j&card_width=1000)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yadhukrishnx&theme=dark&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
-</center><br> <br> 
+
+</center>
+<br> 
+<br> 
+
 <br>
 
 <br>
+
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=yadhukrishnx&show_icons=true&theme=dark&rank_icon=github" alt="Stats" style="display:inline-block;width:460px; "/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhukrishnx&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="display:inline-block; width:380px; height:auto;"/>
+    
+<img src="https://github-readme-stats.vercel.app/api?username=yadhukrishnx&show_icons=true&theme=dark&rank_icon=github" alt="Stats" style="display:inline-block;width:460px; "/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhukrishnx&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="display:inline-block; width:380px; height:auto;"/>
 </div>
 
 
