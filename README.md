@@ -3,7 +3,7 @@
 
 
 
-###### Hi  Interloper...  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 15px></picture>
+###### Hi  Interloper...  <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1pOGI2MjRodGtibjlpaTh3M25jcTJ1aXZxcWljeDUyaXBkM3ZzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdQVFZ1obyONNFS/giphy.gif" width = 45px></picture>
 
     
 
@@ -13,18 +13,21 @@
 
 <div align="center" style="font-family: 'Lucida Console', 'Courier New', monospace; font-size: 2em; color: gray;">
 
-         HI.. I AM YADHUKRISHNA
+         👋 Welcome to my GitHub🌱💻
 </div>
 
  <div align="center" style="color: gray; font-family: Arial, sans-serif;">
 
 ## About Me
 <br>
-*🎓I am a  BCA graduate from Kerala, having recently completed my studies from Kannur university in March 2024.*
+<center>
+𝙷𝚒,  𝙸’𝚖  𝚈𝚊𝚍𝚑𝚞𝚔𝚛𝚒𝚜𝚑𝚗𝚊,  𝚑𝚊𝚒𝚕𝚒𝚗𝚐  𝚏𝚛𝚘𝚖  𝙺𝚎𝚛𝚊𝚕𝚊,  𝙸𝚗𝚍𝚒𝚊! 🌴🏅 
+</center><br>
+<br>
 
-*💻 My journey in the realm of technology is fueled by an unwavering passion for **Front-End Development**.*
+*🎓 Doing my Masters in Computer Application at College of Engineering Trivandrum (CET)👨‍🎓 .*
 
-*✨ I find joy in exploring the latest libraries and frameworks that push the boundaries of web development.*
+*✨ I find joy in exploring the latest libraries and frameworks that push the boundaries of web development 💻.*
 
 *🌟 Always eager to learn and innovate, I strive to create web experiences that are both visually appealing and highly functional.*
 
@@ -39,6 +42,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/{yadhukrishnx}/count.svg)
 
 </div>
+ <br>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg"  width="1000" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg"  width="1000" />
+  <img alt="github-snake" src="github-user-contribution.svg"  width="1000"/>
+</picture>
 
    
 
