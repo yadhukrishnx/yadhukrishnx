@@ -61,7 +61,11 @@
  [![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,python,django,react,shell,javascript,mysql,postgresql,github,linux,jquery,css3,python,bootstrap,figma&theme=light&w=800)](#)
 
 
-<br><br> 
+<br><br>
+
+<img src="https://leetcode-badge-showcase-mojcnkt56-kevzpeters-projects.vercel.app/api?username=yadhukrishnx&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" width=50%/>
+
+<br><br>
 
  <h1 align="center"> Statistics  </h1> 
 <center>
