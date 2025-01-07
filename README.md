@@ -70,9 +70,8 @@
  <h1 align="center"> Statistics  </h1> 
 <center>
 <br> 
-    
-[![GitHub Streak](https://streak-stats.demolab.com?user=yadhukrishnx&theme=highcontrast&hide_border=true&border_radius=60&date_format=%5BY%20%5DM%20j&card_width=1000)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://ghstats.onuralpsezer.com?user=yadhukrishnx'&theme=highcontrast&hide_border=true&border_radius=60&date_format=%5BY%20%5DM%20j&card_width=1000)](https://git.io/streak-stats)
 
 
 </center>
