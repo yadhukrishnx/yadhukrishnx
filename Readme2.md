@@ -38,10 +38,14 @@
                     src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         </div>
 </div>
-<br><br>
+
+<br>
+<div align="center">
+<br><br><br><br>
 <h2 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="60"> Languages and Tools:</h2>
 
 <br>
+
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -63,11 +67,15 @@
 </p>
 
 <br>
+
+ [![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,python,django,react,shell,javascript,mysql,postgresql,github,linux,jquery,css3,python,bootstrap,figma&theme=light&w=800)](#)
+ </div>
 <br>
 <div align="center">
     <h2>My Stats
         </h2>
 </div>
+<br><br>
 <div align="center">
     <p>
         <img align="center" height="160" alt="Jerom's Github Stats"
@@ -90,9 +98,15 @@
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=yadhukrishnx&row=1&theme=discord"></a>
 </p>
        
-<br><br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<br><br>
 <br>
-<img src="https://leetcode-badge-showcase-mojcnkt56-kevzpeters-projects.vercel.app/api?username=yadhukrishnx&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" width="30%" />
+<div align="center">
+    <h2>My Badges
+        </h2>
+    <br><br>
+    <img src="https://leetcode-badge-showcase-mojcnkt56-kevzpeters-projects.vercel.app/api?username=yadhukrishnx&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" width="30%" />
+</div>
+
 <br>
 
 
