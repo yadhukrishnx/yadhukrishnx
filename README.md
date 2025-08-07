@@ -83,9 +83,9 @@
         <img align="center" alt="yadhukrishnx's Github Stats" height="160"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhukrishnx&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
     </p>  
-    <p>
+<!--     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadhukrishnx&theme=nightowl&hide_border=false"/>
-    </p>
+    </p> -->
 </div>
         
 
@@ -100,16 +100,31 @@
        
 <br><br>
 <br>
+
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg"  width="1000" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg"  width="1000" />
+  <img alt="github-snake" src="github-user-contribution.svg"  width="1000"/>
+</picture>
+
+<br>
+
+<center>
+<br> 
+
+[![GitHub Streak](https://ghstats.onuralpsezer.com?user=yadhukrishnx'&theme=highcontrast&hide_border=true&border_radius=60&date_format=%5BY%20%5DM%20j&card_width=1000)](https://git.io/streak-stats)
+
+
+</center>
+
+</p>
 <div align="center">
     <h2>My Badges
         </h2>
     <br><br>
     <img src="https://leetcode-badge-showcase-mojcnkt56-kevzpeters-projects.vercel.app/api?username=yadhukrishnx&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" width="30%" />
 </div>
-
-<br>
-
-
-
-</p>
 </div>
