@@ -10,7 +10,12 @@
 
 <br>
 <div>
-    <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp12744666.jpg">
+    
+    <picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
+</picture>
+<!--     <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp12744666.jpg"> -->
   <h2>  About me</h2>
       <br>
       <div >
