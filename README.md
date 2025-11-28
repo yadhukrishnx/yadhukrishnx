@@ -10,7 +10,8 @@
 
 <br>
 <div>
-    
+
+
 <picture>
   <source srcset="" media="(max-width: 900px)" width="0" height="0">
   <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
@@ -120,7 +121,7 @@
 <center>
 <br> 
 
-[![GitHub Streak](https://ghstats.onuralpsezer.com?user=yadhukrishnx'&theme=highcontrast&hide_border=true&border_radius=60&date_format=%5BY%20%5DM%20j&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://ghstats.onuralpsezer.com?user=yadhukrishnx'&theme=highcontrast&hide_border=true&border_radius=60&date_format=%5BY%20%5DM%20j&card_width=1000&mode=weekly)](https://git.io/streak-stats)
 
 
 </center>
